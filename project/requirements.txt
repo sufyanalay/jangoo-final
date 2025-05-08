@@ -1,0 +1,26 @@
+# Django and Django REST Framework
+Django==4.2.10
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.3.1
+django-cors-headers==4.3.1
+django-filter==24.1
+
+# MongoDB integration
+mongoengine==0.27.0
+django-mongoengine==0.5.4
+
+# Real-time communication
+channels==4.0.0
+channels-redis==4.1.0
+daphne==4.0.0
+
+# File handling and media
+Pillow==10.2.0
+django-storages==1.14.2
+
+# API documentation
+drf-yasg==1.21.7
+
+# Utilities
+python-dotenv==1.0.1
+django-environ==0.11.2
